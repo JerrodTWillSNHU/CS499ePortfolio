@@ -1,6 +1,0 @@
-/*Create a new table "Grandparents"*/
-CREATE TABLE Grandparents (
-	FirstName varchar(255) PRIMARY KEY NOT NULL,
-	LastName varchar(255) NOT NULL,
-	NumberOfChildren INT NOT NULL
-);
