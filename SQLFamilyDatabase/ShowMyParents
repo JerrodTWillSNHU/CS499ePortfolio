@@ -1,0 +1,8 @@
+/*Show the parents of me and my two sisters
+SELECT 
+FirstName,
+Parents
+FROM
+Family
+WHERE
+Parents = 'Tom & Kathy';
