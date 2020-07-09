@@ -1,0 +1,15 @@
+/*Insert values into table*/
+INSERT INTO Family (id, FirstName, LastName, Relationship, City, UsState, Age)
+VALUES (1, 'Jerrod', 'Willbrandt', 'Me', 'Portage', 'MI', 30);
+
+INSERT INTO Family (id, FirstName, LastName, Relationship, City, UsState, Age)
+VALUES (2, 'Keri', 'Willbrandt', 'Sister', 'Mason', 'MI', 33);
+
+INSERT INTO Family (id, FirstName, LastName, Relationship, City, UsState, Age)
+VALUES (3, 'Shena', 'Willbrandt', 'Sister', 'Chicago', 'IL', 38);
+
+INSERT INTO Family (id, FirstName, LastName, Relationship, City, UsState, Age)
+VALUES (4, 'Tom', 'Willbrandt', 'Father', 'Nashville', 'MI', 63);
+
+INSERT INTO Family (id, FirstName, LastName, Relationship, City, UsState, Age)
+VALUES (5, 'Kathy', 'Swartz', 'Mother', 'Bellevue', 'MI', 60);
