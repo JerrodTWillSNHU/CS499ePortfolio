@@ -1,0 +1,8 @@
+/*Adding Parents to the Family Table*/
+ALTER TABLE Family
+ADD Parents VARCHAR(255);
+
+
+/*Adding Parents to the ExtendedFamily Table*/
+ALTER TABLE ExtendedFamily
+ADD Parents VARCHAR(255);
