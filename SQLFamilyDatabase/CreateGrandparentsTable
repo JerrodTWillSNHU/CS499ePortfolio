@@ -1,0 +1,7 @@
+/*Create a new table "Grandparents"*/
+CREATE TABLE Grandparents (
+	id INT PRIMARY KEY NOT NULL,
+	FirstName varchar(255) NOT NULL,
+	LastName varchar(255) NOT NULL,
+	NumberOfChildren INT NOT NULL
+);
