@@ -1,0 +1,10 @@
+/*Create a new table "Extended Family"*/
+CREATE TABLE Extended_Family (
+	id INT PRIMARY KEY NOT NULL,
+	FirstName varchar(255) NOT NULL,
+	LastName varchar(255) NOT NULL,
+	City varchar(255) NOT NULL,
+	UsState varchar(2) NOT NULL,
+	Relationship varchar(255) NOT NULL,
+	Age INT
+);
