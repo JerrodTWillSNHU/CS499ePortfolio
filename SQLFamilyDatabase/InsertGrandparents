@@ -1,0 +1,6 @@
+/*Insert values into Grandparents table*/
+INSERT INTO Grandparents (id, FirstName, LastName, NumberOfChildren)
+VALUES ('Ken & Themla', 'Willbrandt', 3);
+
+INSERT INTO Grandparents (id, FirstName, LastName, NumberOfChildren)
+VALUES ('Ed & Carol', 'Scharrer', 3);
