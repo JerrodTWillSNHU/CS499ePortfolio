@@ -1,0 +1,39 @@
+/*Updating Family table with Parents*/
+UPDATE Family
+SET Parents = 'Tom & Kathy'
+WHERE FirstName = 'Jerrod';
+
+UPDATE Family
+SET Parents = 'Tom & Kathy'
+WHERE FirstName = 'Keri';
+
+UPDATE Family
+SET Parents = 'Tom & Kathy'
+WHERE FirstName = 'Shena';
+
+UPDATE Family
+SET Parents = 'John & Irene'
+WHERE FirstName = 'Tom';
+
+UPDATE Family
+SET Parents = 'Ed & Carol'
+WHERE FirstName = 'Kathy';
+
+
+/*Updating ExtendedFamily table with Parents*/
+UPDATE ExtendedFamily
+SET Parents = 'John & Irene'
+WHERE FirstName = 'Darb';
+
+UPDATE ExtendedFamily
+SET Parents = 'John & Irene'
+WHERE FirstName = 'Mary';
+
+UPDATE ExtendedFamily
+SET Parents = 'Ed & Carol'
+WHERE FirstName = 'Kelly';
+
+UPDATE ExtendedFamily
+SET Parents = 'Ed & Carol'
+WHERE FirstName = 'Ken';
+
