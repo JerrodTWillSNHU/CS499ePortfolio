@@ -1,0 +1,20 @@
+/*Updating Family table with Relationship*/
+UPDATE Family
+SET Relationship = 'Me'
+WHERE FirstName = 'Jerrod';
+
+UPDATE Family
+SET Relationship = 'Sister'
+WHERE FirstName = 'Keri';
+
+UPDATE Family
+SET Relationship = 'Sister'
+WHERE FirstName = 'Shena';
+
+UPDATE Family
+SET Relationship = 'Father'
+WHERE FirstName = 'Tom';
+
+UPDATE Family
+SET Relationship = 'Mother'
+WHERE FirstName = 'Kathy';
