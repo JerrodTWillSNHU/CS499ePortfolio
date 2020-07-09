@@ -1,0 +1,12 @@
+/*Insert values into Extended_Family table*/
+INSERT INTO Extended_Family (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (6, 'Kelly', 'Kilpatrick', 'Marshall', 'MI', 'Aunt', 54);
+
+INSERT INTO Extended_Family (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (7, 'Ken', 'Scharrer', 'Battle Creek', 'MI', 'Uncle', 65);
+
+INSERT INTO Extended_Family (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (8, 'Mary', 'Turner', 'Battle Creek', 'MI', 'Aunt', 71);
+
+INSERT INTO Extended_Family (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (9, 'Darb', 'Willbrandt', 'Athens', 'MI', 'Uncle', 75);
