@@ -1,0 +1,117 @@
+/*Create a new table "Family"*/
+CREATE TABLE Family (
+	id INT PRIMARY KEY NOT NULL,
+	FirstName varchar(255) NOT NULL,
+	LastName varchar(255) NOT NULL,
+	City varchar(255) NOT NULL,
+	UsState varchar(2) NOT NULL
+);
+
+/*Insert values into Family table*/
+INSERT INTO Family (id, FirstName, LastName, City, UsState)
+VALUES (1, 'Jerrod', 'Willbrandt', 'Portage', 'MI');
+
+INSERT INTO Family (id, FirstName, LastName, City, UsState)
+VALUES (2, 'Keri', 'Willbrandt', 'Mason', 'MI');
+
+INSERT INTO Family (id, FirstName, LastName, City, UsState)
+VALUES (3, 'Shena', 'Willbrandt', 'Chicago', 'IL');
+
+INSERT INTO Family (id, FirstName, LastName, City, UsState)
+VALUES (4, 'Tom', 'Willbrandt', 'Nashville', 'MI');
+
+INSERT INTO Family (id, FirstName, LastName, City, UsState)
+VALUES (5, 'Kathy', 'Swartz', 'Bellevue', 'MI');
+
+
+/*View the Family table*/
+SELECT * FROM Family;
+
+
+/*Adding Age and Relationship to the Family Table*/
+ALTER TABLE Family
+ADD Relationship VARCHAR(255);
+
+ALTER TABLE Family
+ADD Age INT;
+
+
+/*Updating Family table with Relationship*/
+UPDATE Family
+SET Relationship = 'Me'
+WHERE FirstName = 'Jerrod';
+
+UPDATE Family
+SET Relationship = 'Sister'
+WHERE FirstName = 'Keri';
+
+UPDATE Family
+SET Relationship = 'Sister'
+WHERE FirstName = 'Shena';
+
+UPDATE Family
+SET Relationship = 'Father'
+WHERE FirstName = 'Tom';
+
+UPDATE Family
+SET Relationship = 'Mother'
+WHERE FirstName = 'Kathy';
+
+/*Updating Family table with Relationship*/
+UPDATE Family
+SET Age = 30
+WHERE FirstName = 'Jerrod';
+
+UPDATE Family
+SET Age = 33
+WHERE FirstName = 'Keri';
+
+UPDATE Family
+SET Age = 38
+WHERE FirstName = 'Shena';
+
+UPDATE Family
+SET Age = 63
+WHERE FirstName = 'Tom';
+
+UPDATE Family
+SET Age = 60
+WHERE FirstName = 'Kathy';
+
+
+/*View the Family table*/
+SELECT * FROM Family;
+
+
+/*Create a new table "Extended Family"*/
+CREATE TABLE ExtendedFamily (
+	id INT PRIMARY KEY NOT NULL,
+	FirstName varchar(255) NOT NULL,
+	LastName varchar(255) NOT NULL,
+	City varchar(255) NOT NULL,
+	UsState varchar(2) NOT NULL,
+	Relationship varchar(255) NOT NULL,
+	Age INT
+);
+
+
+/*Insert values into ExtendedFamily table*/
+INSERT INTO ExtendedFamily (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (6, 'Kelly', 'Kilpatrick', 'Marshall', 'MI', 'Aunt', 54);
+
+INSERT INTO ExtendedFamily (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (7, 'Ken', 'Scharrer', 'Battle Creek', 'MI', 'Uncle', 65);
+
+INSERT INTO ExtendedFamily (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (8, 'Mary', 'Turner', 'Battle Creek', 'MI', 'Aunt', 71);
+
+INSERT INTO ExtendedFamily (id, FirstName, LastName, City, UsState, Relationship, Age)
+VALUES (9, 'Darb', 'Willbrandt', 'Athens', 'MI', 'Uncle', 75);
+
+
+/*View the ExtendedFamily table*/
+SELECT * FROM ExtendedFamily;
+
+
+
+
