@@ -1,4 +1,4 @@
-# <p align="center">![image](https://static.wixstatic.com/media/160886_720abe838bab496fbfc14b206c8966d4.png)
+# ![image](https://static.wixstatic.com/media/160886_720abe838bab496fbfc14b206c8966d4.png)
 
 **Jerrod Willbrandt<br/>
 CS Major<br/>
