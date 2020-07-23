@@ -1,0 +1,92 @@
+/******************************************************************************
+
+                              Jerrod Willbrandt
+                     Personal and Mad Lib array in C++
+                        CS 499 Capstone: Artifact Two
+                      Southern New Hampshire University
+
+*******************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+/*******************************************************************************
+            THIS PART IS FOR FIRST NAME AND FAVORITE COLOR 
+ ******************************************************************************/
+    
+    // Enter first name and your favorite color and stores them in array
+    char namequestion[] = "Please tell us your first name? ";
+    string colorquestion = "What is your favorite color? ";
+    char nameanswer [80];
+    string coloranswer;
+    
+    // Prints the array elements of name and studying
+    cout << namequestion;
+    cin >> nameanswer;
+    cout << colorquestion;
+    cin >> coloranswer;
+    cout << "\n";
+    cout << "Welcome to our program, " << nameanswer;
+    cout << "! Your favorite color is " << coloranswer << ".  Isn't that a lovely color?\n\n";
+    
+/*******************************************************************************
+                    THIS PART IS FOR FAVORITE NUMBERS 
+ ******************************************************************************/
+    
+    int numone, numtwo, numthree, numfour, numfive, sumnum;
+
+    cout << "Enter 5 of your favorite numbers: ";
+    cin >> numone >> numtwo >> numthree >> numfour >> numfive;
+    
+    // Sums the favorite numbers entered by user
+    sumnum = numone + numtwo + numthree + numfour + numfive;
+
+    // Prints the sum of numbers
+    cout << "The sum of your favorite numbers is: \n" << 
+    numone << " + " << numtwo << " + " << numthree << " + " << numfour << " + " << numfive << " = " << sumnum << "\n\n";
+    
+/*******************************************************************************
+                    THIS PART IS FOR THE MAD LIB
+ ******************************************************************************/    
+    
+    //Start the mad lib
+    cout << "And now for a short Mad Lib of your choosing!\n\n";
+
+    //Ask user to enter nouns and adjectives to store in array
+    char adjqone[] = "Please enter an adjective: ";
+    char adjqtwo[] = "And now for one more adjective: ";
+    char nounqone[] = "Now please enter a noun: ";
+    char nounqtwo[] = "Just one more noun: ";
+    char adjaone[50];
+    char adjatwo[50];
+    char nounaone[50];
+    char nounatwo[50];
+    
+    
+    // Prints the array elements of adjectives and nouns
+    cout << adjqone;
+    cin >> adjaone;
+    cout << adjqtwo;
+    cin >> adjatwo;
+    cout << nounqone;
+    cin >> nounaone;
+    cout << nounqtwo;
+    cin >> nounatwo;
+    
+    cout << "\n\n";
+    
+    // Prints the mad lib with the users answers
+    cout << "Once upon a time, " << nameanswer << " was working on their degree \n";
+    cout << "at SNHU.  Their favorite color is " << coloranswer << " and the sum\n";
+    cout << "of 5 of their favorite numbers is " << sumnum << ".  " << nameanswer << " \n";
+    cout << "had grown very " << adjaone << " of the world and was very much in love with \n";
+    cout << nounaone << ".  Once they had realized how " << adjatwo << " the world really is, \n";
+    cout << "it was too late and now it was time for " << nounatwo << " to rise up!\n\n";
+    cout << "Thank you for participating in our Mad Lib!\n\n";
+    cout << "Goodbye.";
+    
+
+    return 0;
+}
