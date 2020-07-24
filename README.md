@@ -10,6 +10,6 @@ My name is Jerrod Willbrandt, and this is my final project to complete for my Ba
 ># **Artifact Code Review**
 >The first part of this project was to figure out what artifacts/projects I would use and how to enhance them.  From there I created a short video explaining what projects I was working on and how I was going to enhance them.  Below is that video. 
 
-><iframe width="560" height="315" src="https://www.youtube.com/embed/gxzFT2m7RUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxzFT2m7RUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **First Artifact**
