@@ -1,5 +1,8 @@
-/*Create a new table "Extended Family"*/
-CREATE TABLE Extended_Family (
+/*****************************************************
+*	CREATE A NEW TABLE NAME EXTENDED FAMILY      *
+*****************************************************/
+
+CREATE TABLE ExtendedFamily (
 	id INT PRIMARY KEY NOT NULL,
 	FirstName varchar(255) NOT NULL,
 	LastName varchar(255) NOT NULL,
