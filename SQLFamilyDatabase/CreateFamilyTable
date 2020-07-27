@@ -1,4 +1,7 @@
-/*Create a new table "Family"*/
+/*****************************************************
+*	    CREATE A NEW TABLE NAMED FAMILY          *
+*****************************************************/
+
 CREATE TABLE Family (
 	id INT PRIMARY KEY NOT NULL,
 	FirstName varchar(255) NOT NULL,
