@@ -1,4 +1,7 @@
-/*Show the parents of me and my two sisters
+/*****************************************************
+*	    SHOW PARENTS FROM FAMILY TABLE           *
+*****************************************************/
+
 SELECT 
 FirstName,
 Parents
@@ -6,3 +9,4 @@ FROM
 Family
 WHERE
 Parents = 'Tom & Kathy';
+GROUP BY F.FirstName 
