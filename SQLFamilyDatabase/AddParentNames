@@ -1,4 +1,21 @@
-/*Updating Family table with Parents*/
+/*****************************************************
+*	    ADD PARENTS INTO FAMILY TABLE            *
+*****************************************************/
+
+ALTER TABLE Family
+ADD Parents VARCHAR(255);
+
+/*****************************************************
+* 	ADD PARENTS INTO EXTENDED FAMILY TABLE       *
+*****************************************************/
+
+ALTER TABLE ExtendedFamily
+ADD Parents VARCHAR(255);
+
+/*****************************************************
+*	   UPDATE FAMILY TABLE WITH PARENTS          *
+*****************************************************/
+
 UPDATE Family
 SET Parents = 'Tom & Kathy'
 WHERE FirstName = 'Jerrod';
@@ -19,8 +36,10 @@ UPDATE Family
 SET Parents = 'Ed & Carol'
 WHERE FirstName = 'Kathy';
 
+/*****************************************************
+*      UPDATE EXTENDED FAMILY TABLE WITH PARENTS     *
+*****************************************************/
 
-/*Updating ExtendedFamily table with Parents*/
 UPDATE ExtendedFamily
 SET Parents = 'John & Irene'
 WHERE FirstName = 'Darb';
@@ -36,4 +55,3 @@ WHERE FirstName = 'Kelly';
 UPDATE ExtendedFamily
 SET Parents = 'Ed & Carol'
 WHERE FirstName = 'Ken';
-
