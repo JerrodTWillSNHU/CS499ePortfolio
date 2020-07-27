@@ -1,4 +1,7 @@
-/*Adding Age and Relationship to the Family Table*/
+/*****************************************************
+*	ADD AGE AND RELATIONSHIP TO FAMILY TABLE     *
+*****************************************************/
+
 ALTER TABLE Family
 ADD Relationship VARCHAR(255);
 
