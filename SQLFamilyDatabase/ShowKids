@@ -1,0 +1,15 @@
+/*****************************************************
+*	      SHOW KIDS OF JOHN & IRENE              *
+*****************************************************/
+
+SELECT 
+Family.FirstName,
+Family.Parents,
+ExtendedFamily.FirstName,
+ExtendedFamily.Parents
+FROM
+Family,
+ExtendedFamily
+WHERE
+Family.Parents = 'John & Irene' AND
+ExtendedFamily.Parents = 'John & Irene';
