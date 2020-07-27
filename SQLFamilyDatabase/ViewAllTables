@@ -1,0 +1,9 @@
+/*****************************************************
+*   VIEW FAMILY, EXTENDED FAMILY, AND KIDS TABLES    *
+*****************************************************/
+
+SELECT * FROM Family;
+
+SELECT * FROM ExtendedFamily;
+
+SELECT * FROM Kids;
