@@ -1,2 +1,0 @@
-/*View the Family table*/
-SELECT * FROM Family;
