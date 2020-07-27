@@ -1,0 +1,9 @@
+/*****************************************************
+*            CREATE A NEW TABLE NAMED KIDS           *
+*****************************************************/
+
+CREATE TABLE Kids (
+	id INT PRIMARY KEY NOT NULL,
+	firstName VARCHAR(255) NOT NULL,
+	numKids INT NOT NULL
+);
