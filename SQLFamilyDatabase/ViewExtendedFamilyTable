@@ -1,2 +1,0 @@
-/*View the ExtendedFamily table*/
-SELECT * FROM ExtendedFamily;
