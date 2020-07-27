@@ -1,4 +1,7 @@
-/*Insert values into table*/
+/*****************************************************
+*	   INSERT VALUES INTO FAMILY TABLE           *
+*****************************************************/
+
 INSERT INTO Family (id, FirstName, LastName, City, UsState)
 VALUES (1, 'Jerrod', 'Willbrandt', 'Portage', 'MI');
 
