@@ -1,4 +1,7 @@
-/*Updating Family table with Relationship*/
+/*****************************************************
+*     UPDATE FAMILY TABLE WITH RELATIONSHIP VALUES   *
+*****************************************************/
+
 UPDATE Family
 SET Relationship = 'Me'
 WHERE FirstName = 'Jerrod';
