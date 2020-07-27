@@ -1,4 +1,7 @@
-/*Updating Family table with Relationship*/
+/*****************************************************
+*	   UPDATE FAMILY TABLE WITH AGE VALUES	     *
+*****************************************************/
+
 UPDATE Family
 SET Age = 30
 WHERE FirstName = 'Jerrod';
