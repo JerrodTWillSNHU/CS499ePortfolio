@@ -1,0 +1,12 @@
+/*****************************************************
+*	     SHOW ALL KIDS OF JOHN & IRENE           *
+*****************************************************/
+
+SELECT 
+ExtendedFamily.FirstName, Kids.numKids
+FROM
+ExtendedFamily
+LEFT JOIN
+Kids
+ON
+ExtendedFamily.id = kids.id
