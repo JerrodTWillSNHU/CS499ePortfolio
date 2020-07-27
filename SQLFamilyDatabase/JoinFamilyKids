@@ -1,0 +1,12 @@
+/*****************************************************
+*  JOIN FAMILY TABLE WITH KIDS TABLE TO SHOW KIDS    *
+*****************************************************/
+
+SELECT 
+Family.FirstName, Kids.numKids
+FROM
+Family
+LEFT JOIN
+Kids
+ON
+Family.id = kids.id
