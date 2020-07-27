@@ -1,0 +1,38 @@
+/*****************************************************
+*            INSERT VALUE INTO KIDS TABLE            *
+*****************************************************/
+
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (1, 'Jerrod', 0);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (2, 'Keri', 0);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (3, 'Shena', 0);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (4, 'Kathy', 3);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (5, 'Tom', 3);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (6, 'Kelly', 3);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (7, 'Ken', 4);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (8, 'Mary', 1);
+
+/*Insert values into Kids table*/
+INSERT INTO Kids (id, firstName, numKids)
+VALUES (9, 'Darb', 2);
