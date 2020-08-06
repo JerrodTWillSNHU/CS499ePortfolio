@@ -40,3 +40,15 @@ The first part of this project was to figure out what artifacts/projects I would
 
 # **Mad Lib Program**
 ![Mad-Lib-Ran](https://user-images.githubusercontent.com/67647090/89568474-5f0d0380-d7f1-11ea-893b-162d9200fbe0.jpg)
+
+# **Databases**
+[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/SQLFamilyDatabase) for **Artifact Three** can be found here.
+
+# **Family Tree Database**
+![All-Three-Tables](https://user-images.githubusercontent.com/67647090/89569298-82847e00-d7f2-11ea-99d8-71ad2037eb6d.jpg)
+
+# **Family Tree JOINS**
+![Show-Parents-From-Family-Table](https://user-images.githubusercontent.com/67647090/89569609-f6268b00-d7f2-11ea-9e27-2d1a60430b41.jpg)
+![Left-Join-Kids](https://user-images.githubusercontent.com/67647090/89569567-e8710580-d7f2-11ea-946e-5702b73afb74.jpg)
+![Left-Join-Extended-Kids](https://user-images.githubusercontent.com/67647090/89569546-db541680-d7f2-11ea-8a1b-ca3648b93287.jpg)
+
