@@ -26,6 +26,14 @@ The first part of this project was to figure out what artifacts/projects I would
 # **Software Design and Engineering**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid) for **Artifact One** can be found here.
 
+The artifact for Software and Engineering is a Pyramid created in Eclipse using the language C++ modern OpenGL which I created using the program Eclipse.  The point of this project was to create a 3D pyramid with a color scheme.  The Pyramid has multiple colors, isn’t very big, leans on a bit of an angle, and doesn’t move/rotate at all.  I created this project back in November of 2019.  
+
+I selected this project because I remember having fun in this course as well as being very challenged.  In completing this course, I remember feeling very accomplished.  The specifics of this project I would like to highlight the color scheme of the pyramid, as well as the even shape and angles of it all.  In the improvements I’ve changed from a color scheme to a texture, increased the size of the Pyramid, and added a rotation to the Pyramid on a axis.
+
+I met the objectives I planned on meeting, except for adding in a light above the Pyramid.  It was taking a long time to create, and I kept coming up with the wrong answers.  This was something I remember struggling in the course with, so instead I changed the background color to lighten things up.  The project is as complete as I want it to be now, so the next step is getting approval and adding it to my ePortfolio.
+
+What I learned from this enhancement is I really enjoyed designing 3D objects during that particular course.  I also learned that just because it has been a while since I worked with a specific language that it is kind of like riding a bike in the sense that it comes back to me.  The challenges I faced were adding in the light, which is why I didn’t go with it.  I felt as though I made enough enhancements that I didn’t need to add the light and I am happy with the outcome.
+
 # **Old 3D Pyramid**
 ![OLD-Pyramid-Image](https://user-images.githubusercontent.com/67647090/89547560-e77cab80-d7d3-11ea-9228-34fac8ae8da4.jpg)
 
@@ -38,11 +46,25 @@ The first part of this project was to figure out what artifacts/projects I would
 # **Algorithm and Data Structures**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/ArtifactTwo) for **Artifact Two** can be found here.
 
+The artifact I have created for Algorithms and Data Structure is a personal & mad lib array in C++.  The program asks a user for some personal information, stores that information in an array, and then pulls the information out into a mad lib I’ve created.  This is a project I have created from scratch and reflects my learning from previous coding courses at SNHU.  This program was created on July 22nd, 2020.
+
+Arrays are a very important part of data structure, which is why I have created an array program to include as an artifact in my ePortfolio.  I’ve selected it because I am comfortable with C++ and wanted to use some creativity with the array using tricks I’ve learned over the years.  Specific parts of the artifact that showcase my skills and abilities are the mad lib.  The mad lib pulls the users name, favorite color, and sum of favorite numbers that were provided at the beginning of the program, and then adds in adjectives and nouns entered in by the user to create a mad lib.
+
+At the beginning of this project I planned on using a project from course CS340 with Python and Javascript.  I was not very comfortable in that course and wasn’t confident I could figure everything out.  I’m happy to say after figuring out what I wanted to do I was able to create the array project and feel comfortable with what I have done.
+The project was build from scratch and memory of things I’ve learned over the years at SNHU.  It is the perfect artifact to showcase an array data structure.  It was not an enhancement of a previous project, but a creating of and idea I wanted to pursue.  The challenges I faced in this project were getting the spacing right, making sure all of the variables were properly named, and getting the data to pull to the right places.
+
 # **Mad Lib Program**
 ![Mad-Lib-Ran](https://user-images.githubusercontent.com/67647090/89568474-5f0d0380-d7f1-11ea-893b-162d9200fbe0.jpg)
 
 # **Databases**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/SQLFamilyDatabase) for **Artifact Three** can be found here.
+
+The artifact I have chosen for the database category is the creation of a Family Tree Database in SQL.  The database contains real information about my immediate and extended family.  I created this database at the beginning of this course to show my skills and proficiency using SQL.
+
+This database is a great addition to my ePortfolio because it demonstrates my knowledge in using SQL to create a database using tables, shows, and joins.  I selected this artifact because it is always better to create things from your direct knowledge, and I know about my family.  The specific components of this artifact that showcase my skills and abilities are the creation of three tables, inserting data into the tables, updating columns and values in tables, and using the JOIN function to merge certain parts of the tables.
+
+I met the course objectives that I planned in the beginning of this course because I created an entirely new database from memory and scratch to showcase my skills using SQL in database.  I didn’t necessarily learn anything from creating this database, but I sharpened my skills in using SQL which is what I sat out to do.  The challenges I faced were using the correct JOIN functions to merge certain parts of the tables I wanted.
+
 
 # **Family Tree Database**
 ![All-Three-Tables](https://user-images.githubusercontent.com/67647090/89569298-82847e00-d7f2-11ea-99d8-71ad2037eb6d.jpg)
