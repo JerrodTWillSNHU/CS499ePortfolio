@@ -49,7 +49,7 @@ The first part of this project was to figure out what artifacts/projects I would
 
 # **Family Tree JOINS**
 ![Show-Parents-From-Family-Table](https://user-images.githubusercontent.com/67647090/89569609-f6268b00-d7f2-11ea-9e27-2d1a60430b41.jpg)
-[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/ViewAllTables) to **View all tables**.
+[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/ViewAllTables) to **View Kids From Family Table**.
 ![Left-Join-Kids](https://user-images.githubusercontent.com/67647090/89569567-e8710580-d7f2-11ea-946e-5702b73afb74.jpg)
 [Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/JoinFamilyKids) to show **Left Join Kids Table**.
 ![Left-Join-Extended-Kids](https://user-images.githubusercontent.com/67647090/89569546-db541680-d7f2-11ea-8a1b-ca3648b93287.jpg)
