@@ -23,4 +23,7 @@ The first part of this project was to figure out what artifacts/projects I would
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxzFT2m7RUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **First Artifact**
+# **Software Design and Engineering**
+**[Project Files]
+(https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid)**
+
