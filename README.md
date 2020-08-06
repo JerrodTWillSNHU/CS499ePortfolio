@@ -32,13 +32,15 @@ I selected this project because I remember having fun in this course as well as 
 
 What I learned from this enhancement is I really enjoyed designing 3D objects during that particular course.  I also learned that just because it has been a while since I worked with a specific language that it is kind of like riding a bike in the sense that it comes back to me.  The challenges I faced were adding in the light, which is why I didn’t go with it.  I felt as though I made enough enhancements that I didn’t need to add the light and I am happy with the outcome.
 
-# **Old 3D Pyramid**
+# **Original 3D Pyramid**
+[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/Pyramid/OldCode) to view **Original Pyramid Code**.
 ![OLD-Pyramid-Image](https://user-images.githubusercontent.com/67647090/89547560-e77cab80-d7d3-11ea-9228-34fac8ae8da4.jpg)
 
 # **New Pyramid Background**
 ![dye](https://user-images.githubusercontent.com/67647090/89546635-cd8e9900-d7d2-11ea-80a6-44222de9a064.jpg)
 
 # **Enhanced 3D Pyramid**
+[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/Pyramid/EnhancedCode) to view **Enhanced Pyramid Code**.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhsoGOj4en8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Algorithm and Data Structures**
@@ -52,6 +54,7 @@ I’m happy to say after figuring out what I wanted to do I was able to create t
 The project was build from scratch and memory of things I’ve learned over the years at SNHU.  It is the perfect artifact to showcase an array data structure.  It was not an enhancement of a previous project, but a creating of and idea I wanted to pursue.  The challenges I faced in this project were getting the spacing right, making sure all of the variables were properly named, and getting the data to pull to the right places.
 
 # **Mad Lib Program**
+[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/ArtifactTwo/PersonalMadLibArray) to view **Mad Lib Program**
 ![Mad-Lib-Ran](https://user-images.githubusercontent.com/67647090/89568474-5f0d0380-d7f1-11ea-893b-162d9200fbe0.jpg)
 
 # **Databases**
