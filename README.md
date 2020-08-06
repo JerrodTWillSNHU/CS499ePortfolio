@@ -26,9 +26,12 @@ The first part of this project was to figure out what artifacts/projects I would
 # **Software Design and Engineering**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid) for Artifact One can be found here.
 
-# **3D Pyramid Project**
+# **Old 3D Pyramid**
 ![OLD-Pyramid-Image](https://user-images.githubusercontent.com/67647090/89547560-e77cab80-d7d3-11ea-9228-34fac8ae8da4.jpg)
 
 # **New Pyramid Background**
 ![dye](https://user-images.githubusercontent.com/67647090/89546635-cd8e9900-d7d2-11ea-80a6-44222de9a064.jpg)
+
+# **Enhanced 3D Pyramid**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhsoGOj4en8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
