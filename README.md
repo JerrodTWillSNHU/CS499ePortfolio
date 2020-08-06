@@ -64,13 +64,14 @@ This database is a great addition to my ePortfolio because it demonstrates my kn
 I created an entirely new database from memory and scratch to showcase my skills using SQL in database.  I didn’t necessarily learn anything from creating this database, but I sharpened my skills in using SQL which is what I sat out to do.  The challenges I faced were using the correct JOIN functions to merge certain parts of the tables I wanted.
 
 # **Family Tree Database**
+[Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/ViewAllTables) to **View All Tables**.
 ![All-Three-Tables](https://user-images.githubusercontent.com/67647090/89569298-82847e00-d7f2-11ea-99d8-71ad2037eb6d.jpg)
 
 # **Family Tree JOINS**
-![Show-Parents-From-Family-Table](https://user-images.githubusercontent.com/67647090/89569609-f6268b00-d7f2-11ea-9e27-2d1a60430b41.jpg)
 [Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/ViewAllTables) to **View Kids From Family Table**.
-![Left-Join-Kids](https://user-images.githubusercontent.com/67647090/89569567-e8710580-d7f2-11ea-946e-5702b73afb74.jpg)
+![Show-Parents-From-Family-Table](https://user-images.githubusercontent.com/67647090/89569609-f6268b00-d7f2-11ea-9e27-2d1a60430b41.jpg)
 [Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/JoinFamilyKids) to show **Left Join Kids Table**.
-![Left-Join-Extended-Kids](https://user-images.githubusercontent.com/67647090/89569546-db541680-d7f2-11ea-8a1b-ca3648b93287.jpg)
+![Left-Join-Kids](https://user-images.githubusercontent.com/67647090/89569567-e8710580-d7f2-11ea-946e-5702b73afb74.jpg)
 [Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/JoinKidsJohnIrene) to show **Left Join Extended Kids Table**.
+![Left-Join-Extended-Kids](https://user-images.githubusercontent.com/67647090/89569546-db541680-d7f2-11ea-8a1b-ca3648b93287.jpg)
 
