@@ -75,3 +75,6 @@ I created an entirely new database from memory and scratch to showcase my skills
 [Show Code](https://github.com/JerrodTWillSNHU/ePortfolio/blob/master/SQLFamilyDatabase/JoinKidsJohnIrene) to show **Left Join Extended Kids Table**.
 ![Left-Join-Extended-Kids](https://user-images.githubusercontent.com/67647090/89569546-db541680-d7f2-11ea-8a1b-ca3648b93287.jpg)
 
+# **Conclusion**
+This concludes my ePortfolio which showcases my skills and what I have learned over the last three years at SNHU.  The artifacts include learnings of C++, SQL, data structures, arrays, the use of IDE's, and enhancements to previous projects of mine.  Thank you for taking the time to look over my ePortfolio.
+
