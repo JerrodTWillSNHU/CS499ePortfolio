@@ -35,3 +35,8 @@ The first part of this project was to figure out what artifacts/projects I would
 # **Enhanced 3D Pyramid**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhsoGOj4en8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# **Algorithm and Data Structures**
+[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/ArtifactTwo)
+
+# **Mad Lib Program**
+![Mad-Lib-Ran](https://user-images.githubusercontent.com/67647090/89568474-5f0d0380-d7f1-11ea-893b-162d9200fbe0.jpg)
