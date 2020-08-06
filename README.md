@@ -24,7 +24,7 @@ The first part of this project was to figure out what artifacts/projects I would
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxzFT2m7RUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Software Design and Engineering**
-[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid) for Artifact One can be found here.
+[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid) for **Artifact One** can be found here.
 
 # **Old 3D Pyramid**
 ![OLD-Pyramid-Image](https://user-images.githubusercontent.com/67647090/89547560-e77cab80-d7d3-11ea-9228-34fac8ae8da4.jpg)
@@ -36,7 +36,7 @@ The first part of this project was to figure out what artifacts/projects I would
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhsoGOj4en8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Algorithm and Data Structures**
-[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/ArtifactTwo)
+[Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/ArtifactTwo) for **Artifact Two** can be found here.
 
 # **Mad Lib Program**
 ![Mad-Lib-Ran](https://user-images.githubusercontent.com/67647090/89568474-5f0d0380-d7f1-11ea-893b-162d9200fbe0.jpg)
