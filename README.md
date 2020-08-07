@@ -5,7 +5,7 @@ CS Major<br/>
 Southern New Hampshire University<br/>**
 
 # **Introduction**
-My name is Jerrod Willbrandt, and this is my final project to complete for my Bachelor's Degree in Computer Science from Southern New Hampshire University.  My college career started back in 2008 at Kellogg Community College, but I took quite a few years off to figure out exactly what I wanted to do.  I have attended SNHU for the past 3 years and have learned a lot.  This is my ePortfolio containing enhanced artifacts from courses & coursework over my last 3 years of schooling.
+My name is Jerrod Willbrandt, and this is my final project for my Bachelor's Degree in Computer Science from Southern New Hampshire University.  I have attended SNHU for the past 3 years and have learned a lot.  This is my ePortfolio containing enhanced artifacts from courses & coursework as well as creations over my last 3 years of schooling.
 
 # **Professional Self-Assessment**
 Throughout the entire Computer Science program, I have learned many things that have helped advance my strengths and professional goals.  The artifacts below will showcase my work and demonstrate how far I have come since the beginning of the program.  This project has allowed me to revisit some of my old projects from up to 3 years ago when I was just starting out.  As you will see, I learned how to enhance my 3D visualization model, build a short mad lib with user entered data, and how to build a database in SQL.  These artifacts will help me in the professional field because they showcase the wide range of knowledge I have learned during my schooling as well as my ability to improve.
@@ -26,7 +26,7 @@ The first part of this project was to figure out what artifacts/projects I would
 # **Software Design and Engineering**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/Pyramid) for **Artifact One** can be found here.
 
-The artifact for Software and Engineering is a Pyramid created in Eclipse using the language C++ modern OpenGL which I created using the program Eclipse.  The point of this project was to create a 3D pyramid with a color scheme.  The Pyramid has multiple colors, isn’t very big, leans on a bit of an angle, and doesn’t move/rotate at all.  I created this project back in November of 2019.  
+The artifact for Software and Engineering is a Pyramid created using the language C++ modern OpenGL which I created using the IDE Eclipse.  The point of this project was to create a 3D pyramid with a color scheme.  The Pyramid has multiple colors, isn’t very big, leans on a bit of an angle, and doesn’t move/rotate at all.  I created this project back in November of 2019.  
 
 I selected this project because I remember having fun in this course as well as being very challenged.  In completing this course, I remember feeling very accomplished.  The specifics of this project I would like to highlight the color scheme of the pyramid, as well as the even shape and angles of it all.  In the improvements I’ve changed from a color scheme to a texture, increased the size of the Pyramid, and added a rotation to the Pyramid on a axis.
 
@@ -59,7 +59,7 @@ The project was built from scratch and memory of things I’ve learned over the 
 # **Databases**
 [Project Files](https://github.com/JerrodTWillSNHU/ePortfolio/tree/master/SQLFamilyDatabase) for **Artifact Three** can be found here.
 
-The artifact I have chosen for the database category is the creation of a Family Tree Database in SQL.  The database contains real information about my immediate and extended family.  I created this database at the beginning of this course to show my skills and proficiency using SQL.
+The artifact I have chosen for the database category is the creation of a Family Tree Database in SQL.  The database contains real information about my immediate and extended family.  I created this database at the beginning of this course to show my skills and proficiency using SQL.  This database was created on July 25th, 2020.
 
 This database is a great addition to my ePortfolio because it demonstrates my knowledge in using SQL to create a database using tables, shows, and joins.  I selected this artifact because it is always better to create things from your direct knowledge, and I know about my family.  The specific components of this artifact that showcase my skills and abilities are the creation of three tables, inserting data into the tables, updating columns and values in tables, and using the JOIN function to merge certain parts of the tables.
 
